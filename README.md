@@ -1,4 +1,4 @@
-"# Adepartment-Price-in-Sudia-Arabia" 
+# Adepartment-Price-in-Sudia-Arabia
 INTRO
 our project revolves around extracting and analyzing data from the ArabNB platform, a leading hub for short-term accommodations. Using web scraping techniques with BeautifulSoup, we harvested crucial information such as property names, locations, bed and bedroom counts, pricing, ratings, and comment numbers. This raw data underwent rigorous analysis and cleaning to ensure its quality. The core of our project lies in the application of machine learning models, specifically decision trees, random forests, and XGBoost. These models were employed to predict trends related to rental properties, achieving an impressive 86% accuracy score. Through our comprehensive approach to data science, we aim to offer valuable insights into the dynamics of short-term rentals on ArabNB, showcasing the transformative potential of data-driven decision-making in the realm of accommodation.
  
